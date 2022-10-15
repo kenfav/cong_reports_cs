@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CongReports
+build_property.RootNamespace = CongReports
+build_property.ProjectDir = /Users/kenissonpfavero/Documents/programming/csharp/CongReports/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/kenissonpfavero/Documents/programming/csharp/CongReports
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/HelloWorld/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9XZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Informes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Informes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Informes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Informes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Informes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5mb3JtZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Publicadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGljYWRvcmVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Publicadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGljYWRvcmVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Publicadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGljYWRvcmVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Publicadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGljYWRvcmVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Publicadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGljYWRvcmVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kenissonpfavero/Documents/programming/csharp/CongReports/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-39rzbmz11g
